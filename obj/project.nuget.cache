@@ -1,11 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "Lb80lNN3a9J/iiRtMMq0GRcxmKpcVGwJ51qIJAiPrFau60rJh+pXhlPn6nrymYe1/EOsNbpKtcrbPH8rxWuPVA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\PROJEK_GRAFKOM\\PROJEK_GRAFKOM.csproj",
+  "dgSpecHash": "oZCNe6825DRXA+iN9EsF+K7pEdkS3/1VpmV7Cjwbt709rmNycH6QE7TCbYPyzGXSoVC2hiNtgHQo0rpn7PxU9A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\proyek\\PROJEK_GRAFKOM\\PROJEK_GRAFKOM.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\opentk\\4.7.1\\opentk.4.7.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\opentk.compute\\4.7.1\\opentk.compute.4.7.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\opentk.core\\4.7.1\\opentk.core.4.7.1.nupkg.sha512",
@@ -17,8 +15,17 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\opentk.windowing.common\\4.7.1\\opentk.windowing.common.4.7.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\opentk.windowing.desktop\\4.7.1\\opentk.windowing.desktop.4.7.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.7.1\\opentk.windowing.graphicslibraryframework.4.7.1.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\ASUS\\source\\repos\\proyek\\Common\\Common.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\ASUS\\source\\repos\\proyek\\Common\\Common.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
